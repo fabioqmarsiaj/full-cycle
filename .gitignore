@@ -1,2 +1,7 @@
 docker/mysql
 docker/node/node_modules
+ddd-patterns/node_modules
+ddd-patterns/.vscode
+ddd-patterns/.swc
+ddd-patterns/dist
+
