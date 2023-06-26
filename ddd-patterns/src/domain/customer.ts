@@ -1,6 +1,7 @@
 class Customer {
   // Now this class represents a richier entity.
   // Meaningful functions that represents bussiness logic.
+  // Domain focused on BUSINESS
   _id: string;
   _name: string;
   _address: string;
